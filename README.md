@@ -17,7 +17,7 @@ $ pip install -r requirements.txt
 
 For windows: install (unofficial) installer from <a href='https://github.com/UB-Mannheim/tesseract/wiki'>Tesseract at UB Mannheim</a>
 
-For mac: use HomeBrew to install tesseract
+For mac: use Homebrew to install tesseract
 
 ---
 created by: Ryan Lee In Zer
